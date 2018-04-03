@@ -1,0 +1,16 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\ScriptableObjects\Interaction\Conditions\Condition.cs">
+    <Files>
+      <File FileName="Assets\Scripts\MonoBehaviours\Inventory\Inventory.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Interaction\Reactions\DelayedReactions\LostItemReaction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Interaction\Reactions\DelayedReactions\PickedUpItemReaction.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Editor\Inventory\InventoryEditor.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\ScriptableObjects\Interaction\Conditions\Condition.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
